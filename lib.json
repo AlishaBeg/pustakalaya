@@ -1,0 +1,13 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "python",
+            "subtitle": "",
+            "author": "",
+            "year": "",
+            "isAvailable": true
+        }
+    ],
+    "members": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pustakalaya",
+  "version": "2.0.0",
+  "description": "Application (CLI)  in python to manage library system and store data in json format",
+  "main": "no",
+  "scripts": {
+    "test": "python app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://alishabeg.github.io/pustakalaya"
+  },
+  "keywords": [
+    "pustakalaya",
+    "libraray",
+    "bookstore"
+  ],
+  "author": "alisha",
+  "license": "ISC"
+}
